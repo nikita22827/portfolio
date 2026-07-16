@@ -27,10 +27,6 @@
 
 ## Скриншоты
 
-### Главное окно
-
-![Главное окно](screenshots/main-window.png)
-
 ### Список номеров
 
 ![Номера](screenshots/rooms.png)
@@ -42,10 +38,6 @@
 ### Статистика
 
 ![Статистика](screenshots/statistics.png)
-
-### Диаграмма классов
-
-![Диаграмма](screenshots/class-diagram.png)
 
 ## Документация
 
